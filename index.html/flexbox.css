@@ -1,0 +1,8 @@
+.skills-container {
+    display: flex;
+}
+
+.skills {
+    flex-grow: 1;
+    border: 1px solid black;
+}
